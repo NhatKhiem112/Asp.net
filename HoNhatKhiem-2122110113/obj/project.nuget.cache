@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/gcFThmUP1Q=",
+  "dgSpecHash": "pWZQEsRjvw8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO LEGION 5\\OneDrive\\Máy tính\\HoNhatKhiem-Asp.net-API\\HoNhatKhiem-2122110113\\HoNhatKhiem-2122110113\\HoNhatKhiem-2122110113.csproj",
+  "projectFilePath": "D:\\HoNhatKhiem-Asp.net-API\\HoNhatKhiem-2122110113\\HoNhatKhiem-2122110113\\HoNhatKhiem-2122110113.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO LEGION 5\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LENOVO LEGION 5\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
