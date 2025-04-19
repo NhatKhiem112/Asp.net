@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CineTicket.API.props" />
+</Project>

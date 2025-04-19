@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1em1j3JZnGa7gyWbLsOY9WXwzvfaaFCA/zJnWgIRhrI=",
+  "Source": "CineTicket.API",
+  "BasePath": "_content/CineTicket.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
